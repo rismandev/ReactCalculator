@@ -42,6 +42,6 @@ $ react-native run-android
 
 <p float="left">
   <a href="https://drive.google.com/uc?id=1KXctU_DUdD6WuYQvLbvPA4yAXHj0YVvd">
-    <img width=75 src="https://i1.wp.com/apkmodsios.com/wp-content/uploads/2018/12/Download-Infinite-Design-3.4.10-Apk.png" width="250">
+    <img width="150" src="https://i1.wp.com/apkmodsios.com/wp-content/uploads/2018/12/Download-Infinite-Design-3.4.10-Apk.png">
   </a>
 </p>
