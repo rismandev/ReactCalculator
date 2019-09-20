@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
-import { View, TextInput, StyleSheet } from 'react-native'
-import CheckBox from '@react-native-community/checkbox'
+import { View, TextInput, StyleSheet, CheckBox } from 'react-native'
 
 const CustomTextInput = (props) => {
 
